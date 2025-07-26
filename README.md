@@ -4,7 +4,7 @@ This project demonstrates how I hosted a multi-page static website using Apache 
 
 ---
 
-## 🔧 What I Did
+##  What I Did
 
 - Set up Ubuntu 22.04 LTS on VirtualBox (on my personal laptop)
 - Installed and configured Apache2 server
@@ -18,7 +18,7 @@ This project demonstrates how I hosted a multi-page static website using Apache 
 
 ---
 
-## 📸 Screenshot
+##  Screenshot
 
 > Screenshot showing the website running in the Ubuntu VM:
 
@@ -26,7 +26,7 @@ This project demonstrates how I hosted a multi-page static website using Apache 
 
 ---
 
-## 🧠 Skills Demonstrated
+##  Skills Demonstrated
 
 - Virtual Machine setup and system configuration
 - Apache web server installation and usage
